@@ -36,8 +36,8 @@ simple_project/
 1. Убедитесь, что у вас установлены **Docker** и **Docker Compose**.
 2. Клонируйте этот репозиторий на вашу машину:
    ```bash
-   git clone https://your-repository-url.git
-   cd simple_project
+   git clone https://github.com/RbBobby/Simple-project-with-Docker-Compose.git
+   cd Simple-project-with-Docker-Compose
    ```
 3. Соберите и запустите проект с помощью Docker Compose:
    ```bash
